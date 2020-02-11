@@ -72,9 +72,9 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"sithfleet.jpg",
-	"sithfleet2.png",
-	"throne.png"
+	"ISD.jpg",
+	"empire.jpg",
+	"lordvader.jpeg"
 ];
 
 // (Image-background only)
@@ -113,7 +113,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "final_order.ogg", name: "The Final Order March"}
+	{ogg: "suite.ogg", name: "Imperial Navy Suite"}
 ];
 
 // Random music order?
@@ -130,9 +130,9 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"The great error is corrected",
-	"Thanks for joining us!",
-	"The Final Order begins",
+	"Alert all commands. Deploy the fleet.",
+	"Fear will keep the local systems in line",
+	"When I left you, I was but the learner. Now I am the master.",
 ];
 
 // Random message order?
