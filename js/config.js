@@ -113,7 +113,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "suite.ogg", name: "Imperial Navy Suite"}
+	{ogg: "pure sillence.ogg", name: "3 hours of purse sillence because loading screen music is loud and annoying"}
 ];
 
 // Random music order?
