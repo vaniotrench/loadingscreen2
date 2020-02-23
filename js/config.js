@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "logo.png";
+var l_serverImage = "tirpitz.png";
 
 // Center logo?
 // 'true' or 'false'
@@ -72,9 +72,9 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"ISD.jpg",
-	"empire.jpg",
-	"lordvader.jpeg"
+	"tirpitz1.jpg",
+	"tirpitz2.jpg",
+	"tirpitz3.jpg"
 ];
 
 // (Image-background only)
@@ -130,9 +130,9 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Alert all commands. Deploy the fleet.",
-	"Fear will keep the local systems in line",
-	"When I left you, I was but the learner. Now I am the master.",
+	"Welcome to Tirpitz Roleplay.",
+	"words build bridges into unexplored regions.",
+	"Enjoy your stay!",
 ];
 
 // Random message order?
