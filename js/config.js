@@ -131,7 +131,7 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"Welcome to Tirpitz Roleplay.",
-	"words build bridges into unexplored regions.",
+	"Words build bridges into unexplored regions.",
 	"Enjoy your stay!",
 ];
 
