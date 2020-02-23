@@ -113,7 +113,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "loading music.ogg", name: "Star Wars: The Imperial Suite X Imperial March by Samuel Kim"}
+	{ogg: "loading music.ogg", name: "10 minutes of pure sillence"}
 ];
 
 // Random music order?
