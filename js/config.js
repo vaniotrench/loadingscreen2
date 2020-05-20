@@ -72,9 +72,9 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"tirpitz1.jpg",
-	"tirpitz2.jpg",
-	"tirpitz3.jpg"
+	"st.jpg",
+	"death squadron.jpg",
+	"deathtroopers.jpg"
 ];
 
 // (Image-background only)
@@ -130,8 +130,8 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Welcome to Tirpitz Roleplay.",
-	"Words build bridges into unexplored regions.",
+	"Welcome to Omnicron Star Wars Roleplay.",
+	"Fear will keep the local systems in line",
 	"Enjoy your stay!",
 ];
 
