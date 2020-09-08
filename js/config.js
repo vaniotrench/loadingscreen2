@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "Imperial_Emblem.png";
+var l_serverImage = "logo.png";
 
 // Center logo?
 // 'true' or 'false'
@@ -22,12 +22,12 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Imperial RP Classic | Serious RP | Need Staff/CO's";
+var l_serverName = "sleekLoad 2";
 
 // Use a video for the background?
 // Otherwise it will use images
 // 'true' or 'false'
-var l_bgVideo = true;
+var l_bgVideo = false;
 
 // Default available videos:
 // "aurora.webm"
@@ -55,7 +55,7 @@ var l_bgVideo = true;
 // Just make sure they are using webm VP8 format 
 // (Place the videos in the backgrounds/videos folder)
 // (You can also use external URL)
-var l_background = "staubsauger.webm";
+var l_background = "bluefall.webm";
 
 // (Image-background only)
 // Enable map-based background image?
@@ -72,19 +72,15 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"picture1.png",
-	"picture2.png",
-	"picture3.png",
-	"picture4.png",
-	"picture5.png",
-	"picture6.png",
-	"picture7.png"
+	"touhou01.jpg",
+	"touhou02.jpg",
+	"touhou03.jpg"
 ];
 
 // (Image-background only)
 // Random background images order?
 // 'true' or 'false'
-var l_bgImagesRandom = false;
+var l_bgImagesRandom = true;
 
 // (Image-background only)
 // Delay between background images changes
@@ -98,7 +94,7 @@ var l_bgImageFadeVelocity = 2000;
 
 // Enable background overlay?
 // 'true' or 'false'
-var l_bgOverlay = false;
+var l_bgOverlay = true;
 
 // Background darkening amount
 // 0 for none (0%), 100 for pitch black (100%)
@@ -106,18 +102,21 @@ var l_bgDarkening = 50;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = false;
+var l_music = true;
 
 // Display current music name?
 // 'true' or 'false'
-var l_musicDisplay = false;
+var l_musicDisplay = true;
 
 // Music playlist
 // Add as many youtube ids/urls or ogg files you want
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "hanna_music.ogg", name: "Imperial March"}
+	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
+	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
+	{youtube: "https://www.youtube.com/watch?v=3VTwbEWW2W8", name: "Tea for Two"},
+	{youtube: "https://www.youtube.com/watch?v=VaDN_19rPyw", name: "Voile, the Magic Library"},
 ];
 
 // Random music order?
@@ -134,14 +133,9 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	""In half an hour I can put together a stike team, capable of succeeding at any mission, under any circumstances, anywhere in the galaxy." - Grand Admiral Fenrik",
-	""Plans change on contanct with the enemy." - Widely known military maxim.",
-	""You can win without fighting, but it's harder to do; the enemy is rarely so cooperative." - Grand General Tagge to a subordinate.",
-	""It's easier to expend material in combat than to fill out fatality datawork." - Irritated sergeant to an equally irritated quartermaster.",
-	""When in doubt, open fire." - Stormtrooper axiom.",
-	""The Rank Rule: those who have the Rank make the rules." - Old military truism.",
-	""Combat-ready units can't pass inspection. Inspection-ready units don't pass combat." - Old trooper's truism.",
-	""Rebels learn too." - General Veers, Commander Blizzard Force, cautioning a subordinate.",
+	"Enjoy the server",
+	"Thanks for joining us!",
+	"Did you know these backgrounds and music are from Touhou?",
 ];
 
 // Random message order?
