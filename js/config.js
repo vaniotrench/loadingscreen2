@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "tirpitz.png";
+var l_serverImage = "Imperial_Emblem.png";
 
 // Center logo?
 // 'true' or 'false'
@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "[IN DEVELOPMENT] The Final Order | Star Wars RP";
+var l_serverName = "Imperial RP Classic | Serious RP | Need Staff/CO's";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -72,9 +72,13 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"st.jpg",
-	"death squadron.jpg",
-	"deathtroopers.jpg"
+	"picture1.png",
+	"picture2.png",
+	"picture3.png",
+	"picture4.png",
+	"picture5.png",
+	"picture6.png",
+	"picture7.png"
 ];
 
 // (Image-background only)
@@ -113,7 +117,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "loading music.ogg", name: "10 minutes of pure sillence"}
+	{ogg: "hanna_music.ogg", name: "Imperial March"}
 ];
 
 // Random music order?
@@ -130,9 +134,14 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Welcome to Omnicron Star Wars Roleplay.",
-	"Fear will keep the local systems in line",
-	"Enjoy your stay!",
+	""In half an hour I can put together a stike team, capable of succeeding at any mission, under any circumstances, anywhere in the galaxy." - Grand Admiral Fenrik",
+	""Plans change on contanct with the enemy." - Widely known military maxim.",
+	""You can win without fighting, but it's harder to do; the enemy is rarely so cooperative." - Grand General Tagge to a subordinate.",
+	""It's easier to expend material in combat than to fill out fatality datawork." - Irritated sergeant to an equally irritated quartermaster.",
+	""When in doubt, open fire." - Stormtrooper axiom.",
+	""The Rank Rule: those who have the Rank make the rules." - Old military truism.",
+	""Combat-ready units can't pass inspection. Inspection-ready units don't pass combat." - Old trooper's truism.",
+	""Rebels learn too." - General Veers, Commander Blizzard Force, cautioning a subordinate.",
 ];
 
 // Random message order?
